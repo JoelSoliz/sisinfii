@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\sis_inf\ec-api\interfaces\bin\Debug\net5.0\interfaces.deps.json
+C:\Users\USER\Documents\sis_inf\ec-api\interfaces\bin\Debug\net5.0\interfaces.dll
+C:\Users\USER\Documents\sis_inf\ec-api\interfaces\bin\Debug\net5.0\interfaces.pdb
+C:\Users\USER\Documents\sis_inf\ec-api\interfaces\bin\Debug\net5.0\models.dll
+C:\Users\USER\Documents\sis_inf\ec-api\interfaces\bin\Debug\net5.0\models.pdb
+C:\Users\USER\Documents\sis_inf\ec-api\interfaces\obj\Debug\net5.0\interfaces.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\sis_inf\ec-api\interfaces\obj\Debug\net5.0\interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\sis_inf\ec-api\interfaces\obj\Debug\net5.0\interfaces.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\sis_inf\ec-api\interfaces\obj\Debug\net5.0\interfaces.AssemblyInfo.cs
+C:\Users\USER\Documents\sis_inf\ec-api\interfaces\obj\Debug\net5.0\interfaces.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\sis_inf\ec-api\interfaces\obj\Debug\net5.0\interfaces.csproj.CopyComplete
+C:\Users\USER\Documents\sis_inf\ec-api\interfaces\obj\Debug\net5.0\interfaces.dll
+C:\Users\USER\Documents\sis_inf\ec-api\interfaces\obj\Debug\net5.0\refint\interfaces.dll
+C:\Users\USER\Documents\sis_inf\ec-api\interfaces\obj\Debug\net5.0\interfaces.pdb
+C:\Users\USER\Documents\sis_inf\ec-api\interfaces\obj\Debug\net5.0\ref\interfaces.dll

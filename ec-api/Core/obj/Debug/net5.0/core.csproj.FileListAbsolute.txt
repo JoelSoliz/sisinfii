@@ -1,0 +1,17 @@
+C:\Users\USER\Documents\sis_inf\ec-api\Core\bin\Debug\net5.0\core.deps.json
+C:\Users\USER\Documents\sis_inf\ec-api\Core\bin\Debug\net5.0\core.dll
+C:\Users\USER\Documents\sis_inf\ec-api\Core\bin\Debug\net5.0\core.pdb
+C:\Users\USER\Documents\sis_inf\ec-api\Core\bin\Debug\net5.0\interfaces.dll
+C:\Users\USER\Documents\sis_inf\ec-api\Core\bin\Debug\net5.0\models.dll
+C:\Users\USER\Documents\sis_inf\ec-api\Core\bin\Debug\net5.0\interfaces.pdb
+C:\Users\USER\Documents\sis_inf\ec-api\Core\bin\Debug\net5.0\models.pdb
+C:\Users\USER\Documents\sis_inf\ec-api\Core\obj\Debug\net5.0\core.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\sis_inf\ec-api\Core\obj\Debug\net5.0\core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\sis_inf\ec-api\Core\obj\Debug\net5.0\core.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\sis_inf\ec-api\Core\obj\Debug\net5.0\core.AssemblyInfo.cs
+C:\Users\USER\Documents\sis_inf\ec-api\Core\obj\Debug\net5.0\core.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\sis_inf\ec-api\Core\obj\Debug\net5.0\core.csproj.CopyComplete
+C:\Users\USER\Documents\sis_inf\ec-api\Core\obj\Debug\net5.0\core.dll
+C:\Users\USER\Documents\sis_inf\ec-api\Core\obj\Debug\net5.0\refint\core.dll
+C:\Users\USER\Documents\sis_inf\ec-api\Core\obj\Debug\net5.0\core.pdb
+C:\Users\USER\Documents\sis_inf\ec-api\Core\obj\Debug\net5.0\ref\core.dll
